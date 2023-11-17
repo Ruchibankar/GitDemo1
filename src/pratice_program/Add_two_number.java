@@ -13,7 +13,7 @@ public class Add_two_number {
 		System.out.println("value are matched ");
 	}else {
 		System.out.println("value are not matched");
-		
+		System.out.println("Strings not matching");  //make this change for github check only
 	
 	}
 	
