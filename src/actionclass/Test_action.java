@@ -39,6 +39,7 @@ public class Test_action {
 }
 	public static void main(String[]args) {
 		 Test_action t=new  Test_action();
-		 t.driveSetting2();
+		 //t.driveSetting2();
+		 t.getClass();   //changes made for github
 	}
 }
