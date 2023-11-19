@@ -27,5 +27,11 @@ public class TestNG1 {
 		System.out.println("url2 is opened");
 		
 	}
+
+	@Test
+	public void enterUrl3() {
+		System.out.println("url3 is opened");  //changes made for github
+
+	}
 	
 }
