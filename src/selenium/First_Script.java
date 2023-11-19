@@ -17,6 +17,7 @@ public class First_Script {
 		driver.navigate().to("https://www.amazon.in/");//to navigate other site
 		String title=driver.getTitle();//for getting title of website
 		System.out.println(title);
+		driver.navigate().to("https://www.google.com") //change made for github
 		//driver.getCurrenturl();
 		System.out.println(driver.getCurrentUrl());
 		driver.close();
